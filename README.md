@@ -12,6 +12,7 @@ Download the repository and run the program using:
 | getMAC.py  | Get MAC Address | 
 | output.png  | Output of the program | 
 | spoofer.py  | Main program | 
+| spoofDetector.py  | Detect ARP Spoof on an interface | 
 | venv  | virtual python environment | 
 ## Output
 ![program output](output.png)
