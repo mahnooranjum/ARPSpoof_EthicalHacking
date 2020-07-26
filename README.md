@@ -1,4 +1,4 @@
-# ARP Spoofing in Linux
+# ARP Spoofing in Linux using Python
 Using scapy to make ARP packets for Man-in-the-Middle attacks
 ## Getting Started
 Download the repository and run the program using:
